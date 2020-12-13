@@ -4,6 +4,6 @@ version                         : 0.0.9
 
 //WhatsApp Configurations		
 instance						: 83430
-webhook							: https://example.requestcatcher.com
+webhook							: https://wapai.requestcatcher.com/test
 token							: j19ksi1mim1lksm12213
 masterKey						: w2apiisthebestlibrary
